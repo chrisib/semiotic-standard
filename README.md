@@ -12,7 +12,7 @@ for radioactivity). However, knowing that yellow represents harmful processes (l
 
 Were I to redesign these signs (which I may try someday) I would make a few changes. First off, making use of existing symbols (e.g. WHMIS, consumer hazard
 symbols) would seem a logical first step. While the Semiotic Standard symbol for radiation hazards is fun, it's perhaps less obvious than the existing
-(trefoil symbol)[https://en.wikipedia.org/wiki/Hazard_symbol#/media/File:Radiation_warning_symbol.svg].  Symbols such as the intercom could be made more
+[trefoil symbol](https://en.wikipedia.org/wiki/Hazard_symbol#/media/File:Radiation_warning_symbol.svg).  Symbols such as the intercom could be made more
 obvious by using something like a telephone or radio, instead of the more abstract interlocking shapes used by the Standard.
 
 Additionally, several signs are identical save for the colours of different regions.  Existing hazard symbols are designed to be printable in black and white
@@ -61,7 +61,7 @@ And some signs are wholly original:
 
 
 ## Sources
-(Typeset in the Future)[https://typesetinthefuture.com/2014/12/01/alien/] has a great breakdown of the history of these icons.
+[Typeset in the Future](https://typesetinthefuture.com/2014/12/01/alien/) has a great breakdown of the history of these icons.
 
-Icons are inspired by work (Brandon Gamm)[https://thenounproject.com/browse/collection-icon/semiotic-standard-icons-from-alien-3224/?p=1]'s work
-with colours derived from (Joe Blogs)[https://wharferj.wordpress.com/2012/05/25/ron-cobbs-alien-semiotic-standards/]' page.
+Icons are inspired by work [Brandon Gamm](https://thenounproject.com/browse/collection-icon/semiotic-standard-icons-from-alien-3224/?p=1)'s work
+with colours derived from [Joe Blogs](https://wharferj.wordpress.com/2012/05/25/ron-cobbs-alien-semiotic-standards/)' page.
